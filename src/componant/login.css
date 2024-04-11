@@ -1,0 +1,97 @@
+.body1 {
+    background: #6a11cb;
+    background-size: cover;
+    height: 100vh;
+    padding: 2rem 22rem 0.5rem 30rem;
+    /* padding: (top,right, bottom, left); */
+}
+
+.main1 {
+    display: flex;
+    background: black;
+    width: 70vh;
+    height: 90vh;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    white-space: 1rem;
+}
+
+.title {
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.line1 {
+    color: whitesmoke;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 5px;
+    text-align: center;
+}
+
+.up {
+    align-items: center;
+    display: flex;
+    margin-left: 3rem;
+    padding: 10px;
+}
+
+.name {
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.input {
+    padding: 5px;
+    border: 1px solid black;
+    margin-left: 1rem;
+}
+
+.line2 {
+    color: whitesmoke;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 10px;
+    width: 15rem;
+    margin-left: 4rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    align-items: center;
+    border: 1px solid white;
+}
+
+btn:hover {
+    opacity: 1;
+}
+
+.icons {
+    font-size: 1.6rem;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    margin: 0.9rem;
+    padding: 10px;
+}
+
+.line3 {
+    color: whitesmoke;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    padding: 20px;
+}

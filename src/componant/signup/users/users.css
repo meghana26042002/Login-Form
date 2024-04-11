@@ -1,0 +1,30 @@
+.back {
+    background: #6a11cb;
+    margin: -2rem;
+}
+
+.user {
+    background-color: black;
+    align-self: flex-start;
+    padding: 0.5rem;
+    margin: 10rem 20rem 10rem 20rem;
+    border-radius: 0.45rem;
+}
+
+.data {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.line {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.delbtn {
+    font-size: 3rem;
+    color: red;
+    width: 5rem;
+}

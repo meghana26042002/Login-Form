@@ -1,0 +1,103 @@
+.innertext {
+    background: #6a11cb;
+    background-size: cover;
+    height: 83vh;
+    width: 70vh;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    white-space: 1rem;
+    /* padding: (top,right, bottom, left); */
+
+}
+
+.outter {
+    background: black;
+    width: 108vh;
+    height: 85vh;
+    padding: 2rem 25rem 5rem 30rem;
+}
+
+.t1 {
+    color: black;
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.l1 {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 5px;
+    text-align: center;
+}
+
+.up1 {
+    align-items: center;
+    display: flex;
+    margin-left: 3rem;
+    padding: 15px;
+}
+
+.nm {
+    color: black;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.ip {
+    padding: 7px;
+    border: 1px solid black;
+    margin-left: 1rem;
+}
+
+/* .line2 {
+    color: black;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 20px;
+    text-align: center;
+} */
+
+.btn1 {
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 15px;
+    width: 15rem;
+    margin: 1rem 1rem 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: black;
+    background-color: wheat;
+    align-items: center;
+    border: 1px solid black;
+}
+
+btn1:hover {
+    opacity: 1;
+}
+
+/* 
+.icons {
+    font-size: 1.6rem;
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    margin: 0.9rem;
+    padding: 10px;
+}
+
+.line3 {
+    color: whitesmoke;
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    padding: 20px;
+} */
